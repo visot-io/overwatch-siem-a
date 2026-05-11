@@ -46,6 +46,9 @@ opensearch_security.session.keepalive: true
 # Branding
 # -----------------------
 opensearchDashboards.branding:
+  loadingLogo:
+    defaultUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
+    darkModeUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
   mark:
     defaultUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
     darkModeUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
