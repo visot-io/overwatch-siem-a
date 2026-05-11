@@ -43,6 +43,16 @@ opensearch_security.session.ttl: 900000
 opensearch_security.session.keepalive: true
 
 # -----------------------
+# Branding
+# -----------------------
+opensearchDashboards.branding:
+  mark:
+    defaultUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
+    darkModeUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
+  faviconUrl: "https://overwatch.tt/wp-content/uploads/2024/02/Overwatch-Logo-Design-July-FINAL-outline-01-1536x1536.png"
+  applicationTitle: "Overwatch"
+
+# -----------------------
 # Wazuh API configuration
 # -----------------------
 wazuh_core.hosts:
